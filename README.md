@@ -17,7 +17,7 @@
 
 ![](http://evil7.net/content/images/2015/12/QQ20151217-2-2x.png)
 
-JMexp_post.py > for:win/linux/all used webshell: phpspy2013.php
+JMexp_post.py > for: win/linux/all used webshell: phpspy2013.php
 
 JMexp_wget.py > for: linux used webshell: phpspy2013.php
 
