@@ -17,4 +17,10 @@
 
 ![](http://evil7.net/content/images/2015/12/QQ20151217-2-2x.png)
 
-My little blog: http://evil7.net
+JMexp_post.py > for:win/linux/all used webshell: phpspy2013.php
+
+JMexp_wget.py > for: linux used webshell: phpspy2013.php
+
+JMexp_writer.py > for: win/linux/all webshell: file-writer.php (also is 1CodeWebshell. pass: JMexp)
+
+more funny things in my blog: http://evil7.net
