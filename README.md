@@ -10,8 +10,6 @@
 
 3. If can't get right version for webshell after all. We have php-writer and 1CodeShell too.
 
-> JMexp_post.py > for: win/linux/all used webshell: phpspy2013.php
-
 > JMexp_wget.py > for: linux used webshell: phpspy2013.php
 
 > JMexp_writer.py > for: win/linux/all webshell: php-writer.php (also is 1CodeShell. pass: JMexp)
